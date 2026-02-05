@@ -1,0 +1,22 @@
+{
+  "color": {
+    "brand": {
+      "Deep-Blue-900": "#051C2C",
+       "Electric-Blue-500": "##2251FF",
+      "Cyan-Blue-500": "#00A9F4"
+          },
+      
+    "neutral": {
+           "White": "#FFFFFF",
+      "Neutral 5": "#F2F2F2",
+      "Neutral 10": "#E6E6E6",
+      "Neutral 20": "#CCCCCC",
+      "Neutral 30": "#B3B3B3",
+      "Neutral 54": "#757575",
+      "Neutral 60": "#656565",
+      "Neutral 70": "#D4D4D4",
+      "Neutral 80": "#333333",
+      "Black": "#000000"
+    }
+}
+}

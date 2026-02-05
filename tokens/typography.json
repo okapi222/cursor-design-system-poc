@@ -1,0 +1,39 @@
+{
+  "typography": {
+    "fontFamily": {
+      "serif": "Bower"
+    },
+    "fontSize": {
+      "h1": 32,
+      "h2": 24,
+      "h3": 20,
+
+    },
+    "fontWeight": {
+      "Bold": 700
+
+    },
+    "lineHeight": {
+      "body": 1.5
+    },
+
+      "fontFamily": {
+      "sans": "McKinsey Sans"
+    },
+    "fontSize": {
+      "h1": 24,
+      "h2": 20,
+      "h3": 18,
+      "body": 16,
+      "small": 14
+    },
+    "fontWeight": {
+      "light": 300,
+      "medium": 500,
+      "bold": 700
+    },
+    "lineHeight": {
+      "body": 1.5
+    }
+  }
+}
