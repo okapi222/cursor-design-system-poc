@@ -1,1 +1,0 @@
-# cursor-design-system-poc
